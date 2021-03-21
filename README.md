@@ -1,7 +1,7 @@
 # hello-world
 My first repository
 
-Hello Humans!
+Hello People!
 
-I like different code languages and I am quite eager to learn more about coding. 
-It usually ranges between repositories, branches, visual studio code and lots more. 
+I have used HTML, CSS, Java and VS code before but I am quite eager to learn more about javascript. 
+I am also taking this class to complete it towards my associates degree.
